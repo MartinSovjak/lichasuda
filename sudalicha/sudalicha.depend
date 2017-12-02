@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512223905 source:c:\users\marti\desktop\väb\sudalicha\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<cstdlib>
+
